@@ -30,20 +30,16 @@ start keploy.exe
 4. Copy http link shown in cmd and paste in the browser 
 ```sh
 
-```bash
 export KEPLOY_MODE="record" in .env file.
-```
 Visit http://localhost:3000/ to make API calls
 Visit http://localhost:6789 to check API calls recorded by Keploy Server
 ```
 
 ```sh
-
-```bash
 export KEPLOY_MODE="test" in .env file.
 ```
+
 Check keploy console for test activities
-```
 
 ## Contributing
 To report any bugs or issues. Please open an issue.
