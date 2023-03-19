@@ -14,6 +14,7 @@
 ```sh
 Win + R
 ```
+
 2. Browse to directory in cmd & install all libraries using npm
 ```sh
 npm init
@@ -22,12 +23,14 @@ npm install dotenv
 npm install axio
 npm i https://github.com/keploy/typescript-sdk
 ```
-3. Now, initialize the server via nodemon
+
+3. Now, initialize the server via node cmd
 ```sh
 node server.js
 start keploy.exe
 ```
-4. Copy http link shown in cmd and paste in the browser 
+
+4. Copy link shown below and paste in the browser.
 ```sh
 
 export KEPLOY_MODE="record" in .env file.
