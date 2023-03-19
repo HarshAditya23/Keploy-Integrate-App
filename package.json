@@ -1,7 +1,6 @@
 {
   "dependencies": {
     "express": "^4.18.2",
-    "nodemon": "^2.0.20",
     "axio": "^1.3.4",
     "dotenv": "^16.0.3",
     "typescript-sdk": "github:keploy/typescript-sdk"
